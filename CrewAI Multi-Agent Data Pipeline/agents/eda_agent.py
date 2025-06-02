@@ -7,7 +7,7 @@ import os
 os.environ["GEMINI_API_KEY"] = "AIzaSyAm34w4wUcw5PASFuMqhqw-3ZCDHTjGybw"
 
 llm = LLM(
-    model="gemini/gemini-2.0-flash",
+    model="gemini/gemini-1.5-pro",
     temperature=0.7,
     api_key=os.environ.get("GEMINI_API_KEY")
 )
