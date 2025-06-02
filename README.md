@@ -10,6 +10,8 @@ The **CrewAI Multi-Agent Data Pipeline** is an interactive web application built
 
 This application leverages **CrewAI**, a framework for coordinating autonomous agents, to perform a structured data workflow. The agents collaborate to process datasets and produce outputs necessary for building machine learning models. The platform is designed to minimize manual effort and accelerate decision-making in the data science lifecycle.
 
+You can try it from here: https://saragamilmohamed-crewai-crewaimulti-agentdatapipelineapp-ilocbm.streamlit.app/
+
 **Key Capabilities:**
 
 * Automated EDA generation
